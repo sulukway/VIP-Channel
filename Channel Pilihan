@@ -1,6 +1,32 @@
 #EXTM3U
-#EXTINF:-1,##### VIP SULUK WAY #####
-http://163.172.39.167:25461/live/KodiBalkan/r2Q7LMYnNn/4.ts
+#EXTINF:-1,##### VIP SPORT SULUK WAY #####
+http://163.172.39.167:25461/live/KodiBalkan/r2Q7LMYnNn/5.ts
+#EXTINF:0 group-title="SPORTS",SONY ESPN HD (NEW by SW)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="SPORTS",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 tvg-id="VIP | ASTRO ARENA" tvg-link="" tvg-name="VIP | ASTRO ARENA" tvg-logo="" group-title="SPORTS",VIP | ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS HD" tvg-link="" tvg-name="VIP | SKYNET SPORTS HD" tvg-logo="" group-title="SPORTS",VIP | SKYNET SPORTS HD
+http://clientportal.link:80/live/Petko/123456/13515.ts
+#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 1" tvg-link="" tvg-name="VIP | SKYNET SPORTS 1" tvg-logo="" group-title="SPORTS",VIP | SKYNET SPORTS 1
+http://62.210.113.222:80/live?channelId=275&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 2" tvg-link="" tvg-name="VIP | SKYNET SPORTS 2" tvg-logo="" group-title="SPORTS",VIP | SKYNET SPORTS 2
+http://62.210.113.222:80/live?channelId=276&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 3" tvg-link="" tvg-name="VIP | SKYNET SPORTS 3" tvg-logo="" group-title="SPORTS",VIP | SKYNET SPORTS 3
+http://62.210.113.222:80/live?channelId=277&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 4" tvg-link="" tvg-name="VIP | SKYNET SPORTS 4" tvg-logo="" group-title="SPORTS",VIP | SKYNET SPORTS 4
+http://62.210.113.222:80/live?channelId=278&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 5" tvg-link="" tvg-name="VIP | SKYNET SPORTS 5" tvg-logo="" group-title="SPORTS",VIP | SKYNET SPORTS 5
+http://62.210.113.222:80/live?channelId=279&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 6" tvg-link="" tvg-name="VIP | SKYNET SPORTS 6" tvg-logo="" group-title="SPORTS",VIP | SKYNET SPORTS 6
+http://62.210.113.222:80/live?channelId=280&uid=36&deviceUser=shep&devicePass=shep
 #EXTINF:-1 tvg-id="VIP | BeIN Sports 1 HD" tvg-link="" tvg-name="VIP | BeIN Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS",VIP | BeIN Sports 1 HD - VIP | BeIN Sports 1 HD
 http://62.210.215.132:80/live?channelId=597&uid=36&deviceUser=shep&devicePass=shep
 #EXTINF:-1 tvg-id="VIP | BeIN Sports 2 HD" tvg-link="" tvg-name="VIP | BeIN Sports 2 HD" tvg-logo="" group-title="BEIN SPORTS",VIP | BeIN Sports 2 HD - VIP | BeIN Sports 2 HD
@@ -41,18 +67,6 @@ http://62.210.113.222:80/live?channelId=1322&uid=36&deviceUser=shep&devicePass=s
 http://62.210.113.222:80/live?channelId=118&uid=36&deviceUser=shep&devicePass=shep
 #EXTINF:-1 tvg-id="SPORTS NET 360 HD" tvg-link="" tvg-name="SPORTS NET 360 HD" tvg-logo="" group-title="EPL",SPORTS NET 360 HD - SPORTS NET 360 HD
 http://62.210.113.222:80/live?channelId=131&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="VIP SKYNET SPORTS 1" tvg-link="" tvg-name="VIP SKYNET SPORTS 1" tvg-logo="http://www.futbol24.com/upload/team/England/Watford-FC-U23s.png" group-title="MORE SPORTS",VIP SKYNET SPORTS 1
-http://62.210.113.222:80/live?channelId=275&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="VIP SKYNET SPORTS 2" tvg-link="" tvg-name="VIP SKYNET SPORTS 2" tvg-logo="" group-title="MORE SPORTS",VIP SKYNET SPORTS 2
-http://62.210.113.222:80/live?channelId=276&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="VIP SKYNET SPORTS 3" tvg-link="" tvg-name="VIP SKYNET SPORTS 3" tvg-logo="" group-title="MORE SPORTS",VIP SKYNET SPORTS 3
-http://62.210.113.222:80/live?channelId=277&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 4" tvg-link="" tvg-name="VIP | SKYNET SPORTS 4" tvg-logo="http://www.futbol24.com/upload/team/England/Huddersfield.png" group-title="MORE SPORTS",VIP | SKYNET SPORTS 4
-http://62.210.113.222:80/live?channelId=278&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 5" tvg-link="" tvg-name="VIP | SKYNET SPORTS 5" tvg-logo="" group-title="MORE SPORTS",VIP | SKYNET SPORTS 5
-http://62.210.113.222:80/live?channelId=279&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="VIP | SKYNET SPORTS 6" tvg-link="" tvg-name="VIP | SKYNET SPORTS 6" tvg-logo="" group-title="MORE SPORTS",VIP | SKYNET SPORTS 6
-http://62.210.113.222:80/live?channelId=280&uid=36&deviceUser=shep&devicePass=shep
 #EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="" group-title="EPL",TSN 1 - TSN 1
 http://163.172.104.251:80/live?channelId=214&uid=36&deviceUser=shep&devicePass=shep
 #EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="" group-title="EPL",TSN 2 - TSN 2
@@ -69,24 +83,11 @@ http://88.99.34.120:80/live?channelId=870&uid=36&deviceUser=shep&devicePass=shep
 http://88.99.34.120:80/live?channelId=873&uid=36&deviceUser=shep&devicePass=shep
 #EXTINF:-1 tvg-id="VIP | BT SPORTS HD 1" tvg-link="" tvg-name="VIP | BT SPORTS HD 1" tvg-logo="" group-title="BT SPORTS",VIP | BT SPORTS HD 1
 http://163.172.104.251:80/live?channelId=1703&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id=" VIP | BT SPORTS HD 2" tvg-link="" tvg-name=" VIP | BT SPORTS HD 2" tvg-logo="" group-title="BT SPORTS", VIP | BT SPORTS HD 2
+#EXTINF:-1 tvg-id="VIP | BT SPORTS HD 2" tvg-link="" tvg-name="VIP | BT SPORTS HD 2" tvg-logo="" group-title="BT SPORTS", VIP | BT SPORTS HD 2
 http://deanbab1.ddns.net:80/live?channelId=1716&uid=36&deviceUser=shep&devicePass=shep
 #EXTINF:-1 tvg-id="VIP | BT SPORTS HD 3" tvg-link="" tvg-name="VIP | BT SPORTS HD 3" tvg-logo="" group-title="BT SPORTS",VIP | BT SPORTS HD 3
 http://163.172.107.251:80/live?channelId=1721&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id=" VIP | BT SPORT ESPN HD" tvg-link="" tvg-name=" VIP | BT SPORT ESPN HD" tvg-logo="" group-title="BT SPORTS", VIP | BT SPORTS ESPN HD
+#EXTINF:-1 tvg-id="VIP | BT SPORT ESPN HD" tvg-link="" tvg-name="VIP | BT SPORT ESPN HD" tvg-logo="" group-title="BT SPORTS", VIP | BT SPORTS ESPN HD
 http://163.172.107.251:80/live?channelId=1731&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="UK | MTV Classic UK" tvg-link="" tvg-name="UK | MTV Classic UK" tvg-logo="" group-title="Music",UK | MTV Classic UK
-http://163.172.104.251:80/live?channelId=1546&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="UK | MTV Dance HD" tvg-link="" tvg-name="UK | MTV Dance HD" tvg-logo="" group-title="Music",UK | MTV Dance HD
-http://163.172.104.251:80/live?channelId=1547&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="UK | MTV Hits HD" tvg-link="" tvg-name="UK | MTV Hits HD" tvg-logo="" group-title="Music",UK | MTV Hits HD
-http://163.172.104.251:80/live?channelId=1548&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="UK | MTV Live HD" tvg-link="" tvg-name="UK | MTV Live HD" tvg-logo="" group-title="Music",UK | MTV Live HD
-http://163.172.104.251:80/live?channelId=1549&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="UK | MTV Music UK" tvg-link="" tvg-name="UK | MTV Music UK" tvg-logo="" group-title="Music",UK | MTV Music UK
-http://163.172.104.251:80/live?channelId=1550&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="UK | MTV Rocks HD" tvg-link="" tvg-name="UK | MTV Rocks HD" tvg-logo="" group-title="Music",UK | MTV Rocks HD
-http://163.172.104.251:80/live?channelId=1551&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1 tvg-id="UK | MTV UK" tvg-link="" tvg-name="UK | MTV UK" tvg-logo="" group-title="Music",UK | MTV UK
-http://163.172.104.251:80/live?channelId=1552&uid=36&deviceUser=shep&devicePass=shep
+
 
